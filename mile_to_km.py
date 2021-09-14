@@ -29,4 +29,5 @@ cal.grid(row=1, column=1)
 button = Button(text="Calculate", command=calculation)
 button.grid(row=2, column=1)
 
+# exit screen
 window.mainloop()
